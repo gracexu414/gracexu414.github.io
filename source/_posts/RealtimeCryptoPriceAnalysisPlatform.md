@@ -18,7 +18,9 @@ Efficient Deployment:       Docker
 
 ## Workflow
 
-![image](Crypto.jpeg)
+[//]: # (![image]&#40;Crypto.jpeg&#41;)
+
+<img src="Crypto.jpeg" width="1024px"/>
 
 ## Demo
 {% video <iframe width="560" height="315" src="https://yingxu-blog-portfolio.s3.us-west-2.amazonaws.com/RealTimeCryptoPriceAnalysis.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> %}
