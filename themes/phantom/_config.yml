@@ -5,16 +5,17 @@ menu:
   About: /about.html
 
 # Logo Image Source
-logo_src: /images/logo.svg
+logo_src: /images/icons8-y-64.png
+
 
 # Theme Main Subtitle
 subtitle_main: Ying Xu's Portfolio
 
 # Theme Secondary subtitle
-susbtitle_secondary: My introduction.
+susbtitle_secondary: A quick learner with a growth and curiosity mindset. <br /> Passionate for exploring the logic behind Computer science and tackling real-world challenges.
 
 # Footer About Section
-about_footer: Linkedin <a href="https://www.linkedin.com/in/ying-yuki-xu/" target="_blank">https://www.linkedin.com/in/ying-yuki-xu/</a> <br /> Github <a href="https://github.com/gracexu414/" target="_blank">https://github.com/gracexu414/</a> <br /> Email xu.ying1#northeastern.edu <br />
+about_footer: Linkedin <a href="https://www.linkedin.com/in/ying-yuki-xu/" target="_blank">https://www.linkedin.com/in/ying-yuki-xu/</a> <br /> Email xu.ying1#northeastern.edu <br />
 
 # Default post title
 default_post_title: Untitled
@@ -31,7 +32,7 @@ show_dates:
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
-  disqus_shortname: klugjo
+#  disqus_shortname: klugjo
   # Facebook comments
 #  facebook:
 #    appid:
@@ -46,7 +47,7 @@ google_analytics:
 #facebook_url: https://www.facebook.com/
 #instagram_url: https://www.instagram.com/
 #dribble_url: https://dribbble.com/
-github_url: https://github.com/gracexu414/
+#github_url: https://github.com/gracexu414/
 linkedin_url: https://www.linkedin.com/in/ying-yuki-xu/
 #dribble_url: https://www.linkedin.com/in/ying-yuki-xu/
 #googleplus_url: https://plus.google.com/

@@ -106,8 +106,8 @@ plugins:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/gracexu414/gracexu414.github.io
-  # example, https://github.com/hexojs/gracexu414.github.io
-  branch: gh-pages
+#deploy:
+#  type: git
+#  repo: https://github.com/gracexu414/gracexu414.github.io
+#  # example, https://github.com/hexojs/gracexu414.github.io
+#  branch: gh-pages
