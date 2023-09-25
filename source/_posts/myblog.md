@@ -18,7 +18,8 @@ Deployment: AWS | Docker
 
 [//]: # (![image]&#40;databaseauth.png&#41;)
 
-<img src="databaseauth.png" width="1024px"/>
+<img src="https://cdn-0.plantuml.com/plantuml/png/ZPD1RrCn48Jl_XLxX0C794xlW8fQG4AjKcXGBrmszZGOd7MrNaVglqU98-oyfe5RRCrysV6RlIZ6QdMJ75VBKZShABrrx2rksK3NUHtbbjSWrt--UKyVglsyp6AQKu9EJNUrNFoGLzyBL7W3OWbqgGWGYvnUT-YncTpiVC3VGRVHOwAqOzFY4SeMimoShY8t7Ww4tH_xlUU6XTVGQRm6-QeACQe5sgaddUHENBTPRvxklbvViV6A2oRYhaE77ed8ZSTputuKY_Ra0bu2lJ3M_0bBzHwbFDGqiavxvo_vvNwvpByXjvgtCK2dcM-n-WLlFUfSJ-xPpNmy-Wo17ioqInOe2zL3arp06NeddMpcDrXLsOD7pk1wthzU-oC_5rAKnonbN-vMpFQs20Xp_5XnnydeNhEioVzTYN7dtltlfsoGlbV_oD-Yq0F7XE3EHstIJqqA6GDrcNCNa50twGy0" width="1024px"/>
 
 ## Demo
-{% video <iframe width="560" height="315" src="https://yingxu-blog-portfolio.s3.us-west-2.amazonaws.com/RealTimeCryptoPriceAnalysis.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> %}
+Click here to see the demo:
+http://api.yingxu.blog/swagger-ui/index.html 
